@@ -1,0 +1,14 @@
+TEXT ANALYSIS REPORT
+Source file: /home/dimas/University/sem 4/IGI/LR4/task2/text.txt
+Date: 2026-05-19 10:54:25.376697
+
+Total sentences: 9
+Sentence types: declarative=6, interrogative=2, imperative=1
+Average sentence length (chars): 20.78
+Average word length: 5.13
+Smiley count: 3
+Dates (years): ['2007', '2024']
+Words (third-consonant, second-vowel): ['How', 'you', 'letter', 'python', 'coffee', 'What', 'vowel', 'from']
+Words starting with vowel count: 10
+Words with double letters: [(1, 'Hello'), (6, 'Good'), (11, '2007'), (15, 'letter'), (17, 'brilliant'), (20, 'letters'), (21, 'book'), (22, 'coffee'), (23, 'happy'), (28, 'Apple'), (30, 'umbrella')]
+Alphabetically sorted words: ['2007', '2024', 'about', 'and', 'Apple', 'are', 'book', 'brilliant', 'coffee', 'condition', 'Double', 'end', 'example', 'from', 'Good', 'happy', 'Hello', 'house', 'How', 'letter', 'letters', 'orange', 'p', 'python', 'Smileys', 'start', 'table', 'thanks', 'Third', 'third', 'umbrella', 'vowel', 'What', 'Words', 'world', 'Year', 'you', 'проверка']

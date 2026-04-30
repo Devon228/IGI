@@ -1,0 +1,7 @@
+Hello world! How are you? Good, thanks. 
+Smileys: :-) ;---))) and :[[[.
+Year 2007, 2024. 
+Words: table, letter, house, brilliant, python.
+Double letters: book, coffee, happy.
+What about vowel-start: Apple, orange, umbrella.
+Third-from-end condition: example (third 'p' проверка)?
